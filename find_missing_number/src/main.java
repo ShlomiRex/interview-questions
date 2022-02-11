@@ -5,6 +5,9 @@ import java.util.Arrays;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class main {
+	/**
+	 * https://www.educative.io/blog/crack-amazon-coding-interview-questions
+	 */
     public int findMissingNumber(int[] input, int n) {
         //Note: input size is never zero.
 
